@@ -6,7 +6,7 @@ Control your drone via internet
 Install these python packages
 
 pip install pymavlink
-pip install dronekit
-pip install pyserial -- this is important NOT serial
 
-
+pip install dronekit
+
+pip install pyserial -- this is important NOT serial
